@@ -1,6 +1,6 @@
 # Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?
 
-This repository contains the PyTorch implementation of our ICLR 2023 paper titled "[**Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?**](https://openreview.net/pdf?id=zKvm1ETDOq)".
+This repository contains the PyTorch implementation of our ICLR 2023 Spotlight paper titled "[**Is Adversarial Training Really a Silver Bullet for Mitigating Data Poisoning?**](https://openreview.net/pdf?id=zKvm1ETDOq)".
 
 
 ## Usage
